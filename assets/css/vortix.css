@@ -27,7 +27,7 @@ body {
     radial-gradient(860px 420px at 100% 0%, rgba(61, 123, 255, 0.4), transparent 54%),
     radial-gradient(720px 420px at 78% 108%, rgba(198, 255, 74, 0.16), transparent 52%),
     radial-gradient(640px 360px at 18% 92%, rgba(123, 44, 191, 0.45), transparent 50%),
-    linear-gradient(168deg, #5a1d92 0%, #3a1478 22%, #2a1468 48%, #3d1c86 72%, #24125a 100%);
+    linear-gradient(168deg, #87CEEB 0%, #5DADE2 50%, #3498DB 100%);
   background-attachment: fixed;
   color: var(--text);
   font-family: "Outfit", system-ui, sans-serif;
