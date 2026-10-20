@@ -101,8 +101,8 @@ button, input, select { font-family: inherit; }
   font-weight: 700;
 }
 .icon-btn {
-  background: #1c1830;
-  color: #fff;
+  background: #ffe14a;
+  color: #ffe14a;
   width: 42px; height: 42px;
   border: 1px solid var(--line);
   position: relative;
