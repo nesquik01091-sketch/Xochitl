@@ -116,8 +116,8 @@ button, input, select { font-family: inherit; }
 }
 .btn {
   padding: 0.7rem 1.05rem;
-  background: linear-gradient(90deg, var(--lime), var(--cyan));
-  color: #071018;
+  background: linear-gradient(90deg, var(--yellow), var(--yellow);
+  color: #ffe14a;
 }
 .btn.ghost { background: transparent; color: #fff; border: 1px solid var(--line); }
 .btn.pink { background: linear-gradient(90deg, var(--pink), var(--purple)); color: #fff; }
