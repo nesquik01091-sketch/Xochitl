@@ -101,8 +101,8 @@ button, input, select { font-family: inherit; }
   font-weight: 700;
 }
 .icon-btn {
-  background: #ffe14a;
-  color: #ffe14a;
+  background: #1c1830;
+  color: #fff;
   width: 42px; height: 42px;
   border: 1px solid var(--line);
   position: relative;
@@ -116,8 +116,8 @@ button, input, select { font-family: inherit; }
 }
 .btn {
   padding: 0.7rem 1.05rem;
-  background: linear-gradient(90deg, var(--yellow), var(--yellow);
-  color: #ffe14a;
+  background: linear-gradient(90deg, var(--lime), var(--cyan));
+  color: #071018;
 }
 .btn.ghost { background: transparent; color: #fff; border: 1px solid var(--line); }
 .btn.pink { background: linear-gradient(90deg, var(--pink), var(--purple)); color: #fff; }
@@ -368,7 +368,5 @@ th { color: var(--lime); }
   .hero, .product-layout, .impact-grid, .two, .foot-grid { grid-template-columns: 1fr; }
   .hero h1 { -webkit-text-stroke-width: 4px; }
 }
-
-
 
 
