@@ -368,17 +368,7 @@ th { color: var(--lime); }
   .hero, .product-layout, .impact-grid, .two, .foot-grid { grid-template-columns: 1fr; }
   .hero h1 { -webkit-text-stroke-width: 4px; }
 }
-/* ===== MARQUESINA VORTIXBYTE ===== */
-.marquee-container {
-  overflow: hidden;
-  white-space: nowrap;
-  background: linear-gradient(90deg, #ff2bd6, #3d7bff, #00d4ff, #c6ff4a);
-  border-bottom: 3px solid #12121f;
-  box-shadow: 0 4px 20px rgba(0, 212, 255, 0.35);
-  padding: 10px 0;
-  position: relative;
-  z-index: 2;
-}
+
 
 
 
